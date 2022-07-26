@@ -1,0 +1,150 @@
+Asset Category,Work Order ID,Work Order Priority Notation,Work Order Remedy Code,Work Order Status,Work Order Creation Time,Work Order SLA Date,Work Order TCOMP Date,FailureCodeSF,Completed By DueDate
+Roads,WO15,6 months,Edge Repair,APPR,16/10/2018,27/11/2018,16/10/2018,RMP,Completed - In time
+Roads,WO37,24 months,Edge Repair,APPR,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO40,12 months,Pothole Repair,APPR,1/11/2018,1/12/2018,21/03/2019,Other,Completed - Not in Time
+Roads,WO41,12 months,Place new road signage,APPR,1/11/2018,1/12/2018,1/05/2019,Other,Completed - Not in Time
+Roads,WO1,Non Critical Maintenance On Operational Assets (30 days),Pothole Patching,ASSESS,28/02/2018,30/03/2018,2/04/2019,Other,Completed - Not in Time
+Roads,WO12,12 months,Minor Surface Treatment,INPRG,3/08/2018,2/09/2018,19/08/2018,MAINT,Completed - In time
+Roads,WO14,6 months,Culvert or Pit Repairs,INPRG,11/10/2018,22/11/2018,8/05/2019,RMP,Completed - Not in Time
+Kerbs,WO16,12 months,Kerb and Channel Repair,INPRG,16/10/2018,15/11/2018,16/04/2019,RMP,Completed - Not in Time
+Roads,WO17,24 months,Edge Repair,INPRG,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO19,24 months,Edge Repair,INPRG,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO20,24 months,Edge Repair,INPRG,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO21,24 months,Edge Repair,INPRG,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO22,24 months,Edge Repair,INPRG,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO23,24 months,Edge Repair,INPRG,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO24,24 months,Edge Repair,INPRG,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO25,24 months,Edge Repair,INPRG,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO27,24 months,Edge Repair,INPRG,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO28,12 months,Place new road signage,ASSESS,22/10/2018,21/11/2018,21/08/2019,RMP,Completed - Not in Time
+Roads,WO29,24 months,Edge Repair,ASSESS,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO30,24 months,Edge Repair,ASSESS,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO31,24 months,Edge Repair,ASSESS,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO32,24 months,Edge Repair,ASSESS,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO33,24 months,Edge Repair,ASSESS,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO35,24 months,Edge Repair,ASSESS,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO36,24 months,Edge Repair,ASSESS,22/10/2018,20/04/2019,,Other,Completed - In time
+Pathways,WO38,2 days,Fix non asset related defect,ASSESS,26/10/2018,28/10/2018,4/04/2019,Other,Completed - Not in Time
+Roads,WO39,12 months,Pothole Patching,ASSESS,30/10/2018,29/11/2018,9/10/2019,MAINT,Completed - Not in Time
+Roads,WO42,12 months,Edge Repair,ASSESS,1/11/2018,1/12/2018,1/05/2019,Other,Completed - Not in Time
+Pathways,WO43,7 days,Clear Vegetation,ASSESS,1/11/2018,1/12/2018,4/04/2019,Other,Completed - Not in Time
+Roads,WO44,12 months,Removal of trees and limbs,ASSESS,1/11/2018,1/12/2018,1/05/2019,Other,Completed - Not in Time
+Roads,WO46,12 months,Pothole Patching,ASSESS,2/11/2018,2/12/2018,23/08/2019,Other,Completed - Not in Time
+Roads,WO47,24 months,Edge Repair,ASSESS,22/10/2018,20/04/2019,,Other,Completed - In time
+Car Parks,WO48,12 months,Minor Surface Treatment,ASSESS,7/11/2018,7/12/2018,28/04/2020,Other,Completed - Not in Time
+Bridges,WO49,7 days,Perform Routine Bridge Maintenance,ASSESS,7/11/2018,7/12/2018,2/05/2019,OPS,Completed - Not in Time
+Roads,WO50,12 months,Pothole Repair,ASSESS,7/11/2018,7/12/2018,21/03/2019,Other,Completed - In time
+Roads,WO51,6 months,Surface Drains & Culvert Clearing,ASSESS,9/11/2018,23/11/2018,11/04/2019,Other,Completed - Not in Time
+Kerbs,WO52,3 months,Kerb and Channel Repair,ASSESS,9/11/2018,8/02/2019,1/05/2019,Other,Completed - Not in Time
+Roads,WO53,12 months,Removal of trees and limbs,ASSESS,9/11/2018,9/12/2018,20/03/2019,Other,Completed - In time
+Pathways,WO54,7 days,Clear Vegetation,ASSESS,12/11/2018,19/11/2018,17/04/2019,Other,Completed - Not in Time
+Kerbs,WO55,12 months,Kerb and Channel Repair,ASSESS,12/11/2018,12/12/2018,1/05/2019,Other,Completed - Not in Time
+Roads,WO57,12 months,Install new signage,ASSESS,12/11/2018,12/12/2018,21/03/2019,Other,Completed - Not in Time
+Roads,WO58,12 months,Surface Drains & Culvert Clearing,ASSESS,12/11/2018,12/12/2018,29/03/2019,Other,Completed - Not in Time
+Kerbs,WO59,12 months,Assessment of inspected Council Asset,ASSESS,13/11/2018,13/12/2018,14/08/2019,Other,Completed - Not in Time
+Bridges,WO61,3 months,Place new road signage,ASSESS,16/11/2018,15/02/2019,21/08/2019,Other,Completed - Not in Time
+Roads,WO62,12 months,Pothole Repair,ASSESS,23/11/2018,23/12/2018,19/03/2019,Other,Completed - In time
+Roads,WO63,12 months,Surface Drains & Culvert Clearing,ASSESS,26/11/2018,26/12/2018,16/04/2019,Other,Completed - Not in Time
+Pathways,WO68,7 days,Clear Vegetation,ASSESS,26/11/2018,26/12/2018,4/04/2019,Other,Completed - Not in Time
+Pathways,WO69,3 days,Repair Surface Defect,ASSESS,28/11/2018,12/12/2018,,Other,Completed - Not in Time
+Pathways,WO70,10 days,Repair Surface Defect,ASSESS,30/11/2018,29/05/2019,30/11/2018,Other,Completed - In time
+Pathways,WO71,10 days,Repair Surface Defect,ASSESS,30/11/2018,29/05/2019,30/11/2018,Other,Completed - In time
+Pathways,WO72,10 days,Repair Surface Defect,ASSESS,30/11/2018,29/05/2019,30/11/2018,Other,Completed - In time
+Pathways,WO73,3 days,Repair Surface Defect,ASSESS,30/11/2018,14/12/2018,27/11/2019,Other,Completed - Not in Time
+Pathways,WO74,3 days,Repair Surface Defect,ASSESS,30/11/2018,14/12/2018,17/04/2019,Other,Completed - Not in Time
+Pathways,WO75,10 days,Repair Surface Defect,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Pathways,WO77,10 days,Repair Surface Defect,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO78,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO79,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO80,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO82,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO83,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO84,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO85,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO86,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO87,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO88,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO89,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO90,24 months,Pothole Patching,ASSESS,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO92,12 months,Removal of trees and limbs,ASSESS,7/12/2018,6/01/2019,16/04/2019,Other,Completed - Not in Time
+Roads,WO93,12 months,Removal of trees and limbs,ASSESS,7/12/2018,6/01/2019,1/05/2019,Other,Completed - Not in Time
+Roads,WO94,12 months,Pothole Patching,ASSESS,7/12/2018,6/01/2019,11/04/2019,Other,Completed - Not in Time
+Roads,WO95,12 months,Removal of trees and limbs,ASSESS,7/12/2018,6/01/2019,6/08/2019,Other,Completed - Not in Time
+Roads,WO96,12 months,Removal and cleanup ,ASSESS,7/12/2018,6/01/2019,1/05/2019,Other,Completed - Not in Time
+Pathways,WO97,2 days,Repair Surface Defect,INPRG,7/12/2018,8/04/2019,30/05/2019,RMP,Completed - Not in Time
+Pathways,WO98,2 days,Repair Surface Defect,ASSESS,7/12/2018,9/12/2018,4/04/2019,OPS,Completed - Not in Time
+Roads,WO99,12 months,Removal of trees and limbs,ASSESS,7/12/2018,6/01/2019,16/04/2019,Other,Completed - Not in Time
+Pathways,WO100,1 day,Clear Vegetation,INPRG,10/12/2018,11/03/2019,21/08/2019,OPS,Completed - Not in Time
+Pathways,WO101,2 days,Repair Surface Defect,INPRG,10/12/2018,11/04/2019,21/01/2019,RMP,Completed - In time
+Roads,WO102,12 months,Surface Drains & Culvert Clearing,INPRG,10/12/2018,9/01/2019,4/04/2019,Other,Completed - Not in Time
+Pathways,WO103,7 days,Clear Vegetation,INPRG,10/12/2018,9/01/2019,21/01/2019,Other,Completed - In time
+Pathways,WO104,3 days,Repair Surface Defect,INPRG,10/12/2018,13/12/2018,21/01/2019,OPS,Completed - Not in Time
+Roads,WO105,12 months,Surface Drains & Culvert Clearing,ASSESS,10/12/2018,9/01/2019,11/04/2019,MAINT,Completed - Not in Time
+Roads,WO106,6 months,Place new road signage,ASSESS,10/12/2018,21/01/2019,11/04/2019,RMP,Completed - Not in Time
+Roads,WO108,12 months,Install new signage,ASSESS,12/12/2018,11/01/2019,13/03/2019,Other,Completed - Not in Time
+Pathways,WO109,1 day,Clear Vegetation,ASSESS,12/12/2018,13/03/2019,6/02/2019,OPS,Completed - In time
+Pathways,WO110,7 days,Repair Surface Defect,ASSESS,13/12/2018,13/12/2019,27/02/2019,OPS,Completed - In time
+Pathways,WO111,7 days,Repair Surface Defect,ASSESS,13/12/2018,13/12/2019,27/02/2019,OPS,Completed - In time
+Road Elements,WO112,12 months,Removal and cleanup ,ASSESS,13/12/2018,12/01/2019,5/04/2019,RMP,Completed - In time
+Roads,WO113,4 months,Surface Drains & Culvert Clearing,ASSESS,14/12/2018,16/12/2018,13/03/2019,RMP,Completed - Not in Time
+Roads,WO114,12 months,Removal of trees and limbs,ASSESS,14/12/2018,21/12/2018,11/04/2019,RMP,Completed - Not in Time
+Roads,WO115,12 months,Pothole Patching,ASSESS,14/12/2018,21/12/2018,16/04/2019,RMP,Completed - Not in Time
+Roads,WO116,12 months,Removal of trees and limbs,ASSESS,14/12/2018,13/01/2019,23/08/2019,Other,Completed - Not in Time
+Pathways,WO117,7 days,Clean Path Surface,WAPPR,14/12/2018,14/12/2019,8/05/2019,OPS,Completed - In time
+Pathways,WO118,7 days,Repair Barrier,WAPPR,17/12/2018,16/01/2019,1/03/2019,Other,Completed - In time
+Pathways,WO119,3 days,Repair Signage,WAPPR,17/12/2018,20/12/2018,27/02/2019,OPS,Completed - Not in Time
+Roads,WO120,12 months,Surface Drains & Culvert Clearing,WAPPR,18/12/2018,17/01/2019,11/04/2019,MAINT,Completed - Not in Time
+Roads,WO121,12 months,Pothole Repair,WAPPR,18/12/2018,17/01/2019,7/03/2019,Other,Completed - Not in Time
+Car Parks,WO122,4 months,Surface Drains & Culvert Clearing,WAPPR,18/12/2018,20/12/2018,16/04/2019,Other,Completed - Not in Time
+Kerbs,WO123,12 months,Kerb and Channel Repair,WAPPR,18/12/2018,17/01/2019,16/04/2019,Other,Completed - Not in Time
+Roads,WO124,12 months,Surface Drains & Culvert Clearing,WAPPR,18/12/2018,17/01/2019,7/03/2019,Other,Completed - Not in Time
+Roads,WO125,12 months,Install new signage,WAPPR,18/12/2018,17/01/2019,14/03/2019,Other,Completed - Not in Time
+Roads,WO126,6 months,Assessment of inspected Council Asset,WAPPR,19/12/2018,2/01/2019,19/12/2018,Other,Completed - Not in Time
+Roads,WO127,6 months,Assessment of inspected Council Asset,WAPPR,19/12/2018,2/01/2019,19/12/2018,Other,Completed - Not in Time
+Pathways,WO128,7 days,Clear Vegetation,ASSESS,19/12/2018,26/12/2018,24/02/2020,Other,Completed - Not in Time
+Roads,WO129,Serious (14 days),"Culvert, Pit, SW Drain Clean/Repair",ASSESS,19/12/2018,2/01/2019,20/03/2019,Other,Completed - Not in Time
+Roads,WO130,6 months,Culvert or Pit Repairs,ASSESS,19/12/2018,2/01/2019,20/05/2020,Other,Completed - Not in Time
+Roads,WO131,12 months,Culvert or Pit Repairs,TCOMP,19/12/2018,19/12/2019,20/03/2019,OPS,Completed - In time
+Roads,WO132,6 months,Minor Surface Treatment,ASSESS,19/12/2018,2/01/2019,2/05/2019,MAINT,Completed - Not in Time
+Pathways,WO133,3 days,Clear Obstruction,ASSESS,19/12/2018,2/01/2019,4/04/2019,Other,Completed - Not in Time
+Roads,WO134,6 months,Assessment of Inspected Council Asset,ASSESS,19/12/2018,2/01/2019,5/08/2019,Other,Completed - Not in Time
+Roads,WO136,6 months,Assessment of Inspected Council Asset,TCOMP,19/12/2018,2/01/2019,11/04/2019,Other,Completed - Not in Time
+Pathways,WO137,2 days,Repair Surface Defect,ASSESS,20/12/2018,20/04/2019,,RMP,Completed - In time
+Pathways,WO138,2 days,Repair Surface Defect,ASSESS,20/12/2018,20/04/2019,11/04/2019,RMP,Completed - In time
+Pathways,WO139,2 days,Repair Surface Defect,ASSESS,20/12/2018,20/04/2019,,RMP,Completed - In time
+Pathways,WO140,2 days,Repair Surface Defect,ASSESS,20/12/2018,20/04/2019,27/02/2019,RMP,Completed - In time
+Pathways,WO141,2 days,Repair Surface Defect,ASSESS,20/12/2018,21/04/2019,,RMP,Completed - In time
+Pathways,WO142,2 days,Repair Surface Defect,ASSESS,20/12/2018,21/04/2019,27/02/2019,RMP,Completed - In time
+Roads,WO143,6 months,Assessment of inspected Council Asset,ASSESS,20/12/2018,3/01/2019,28/03/2019,Other,Completed - Not in Time
+Pathways,WO144,2 days,Repair Surface Defect,ASSESS,20/12/2018,21/04/2019,4/04/2019,RMP,Completed - In time
+Pathways,WO145,2 days,Repair Surface Defect,ASSESS,20/12/2018,21/04/2019,29/08/2019,RMP,Completed - In time
+Roads,WO146,12 months,Surface Drains & Culvert Clearing,TCOMP,20/12/2018,19/01/2019,14/03/2019,Other,Completed - In time
+Pathways,WO147,3 days,Repair Surface Defect,ASSESS,20/12/2018,3/01/2019,29/08/2019,OPS,Completed - Not in Time
+Roads,WO148,6 months,Assessment of inspected Council Asset,ASSESS,20/12/2018,3/01/2019,28/03/2019,Other,Completed - Not in Time
+Roads,WO149,12 months,Culvert or Pit Repairs,ASSESS,20/12/2018,19/01/2019,16/04/2019,SAFE,Completed - Not in Time
+Pathways,WO150,3 days,Repair Surface Defect,ASSESS,20/12/2018,3/01/2019,29/08/2019,OPS,Completed - Not in Time
+Pathways,WO151,2 days,Repair Surface Defect,ASSESS,21/12/2018,21/04/2019,1/03/2019,RMP,Completed - In time
+Pathways,WO152,10 days,Clear Obstruction,ASSESS,21/12/2018,19/06/2019,27/02/2019,Other,Completed - In time
+Pathways,WO153,2 days,Clean Path Surface,ASSESS,21/12/2018,23/12/2018,29/08/2019,OPS,Completed - Not in Time
+Roads,WO154,6 months,Surface Drains & Culvert Clearing,ASSESS,21/12/2018,4/01/2019,12/04/2019,Other,Completed - Not in Time
+Roads,WO155,12 months,Grading,ASSESS,21/12/2018,28/12/2018,15/03/2019,RMP,Completed - Not in Time
+Pathways,WO156,2 days,Repair Surface Defect,ASSESS,21/12/2018,23/12/2018,27/02/2019,Other,Completed - Not in Time
+Roads,WO157,6 months,Install new signage,ASSESS,27/12/2018,7/02/2019,14/03/2019,Other,Completed - In time
+Roads,WO158,4 months,Edge Repair,ASSESS,27/12/2018,24/01/2019,16/04/2019,RMP,Completed - Not in Time
+Roads,WO159,12 months,Removal of trees and limbs,ASSESS,27/12/2018,27/12/2019,16/04/2019,RMP,Completed - In time
+Roads,WO11,12 months,Minor Surface Treatment,CAN,1/07/2018,1/07/2019,,OPS,Cancelled
+Roads,WO45,12 months,Digout,CAN,2/11/2018,2/11/2019,,OPS,Cancelled
+Bridges,WO56,7 days,Repair Barrier,CAN,12/11/2018,12/12/2018,,Other,Cancelled
+Pathways,WO60,7 days,Clear Vegetation,CAN,15/11/2018,15/12/2018,,Other,Cancelled
+Roads,WO91,12 months,Removal and cleanup,CAN,6/12/2018,5/01/2019,,Other,Cancelled
+Pathways,WO135,,Clear Vegetation,CAN,19/12/2018,2/01/2019,,SAFE,Cancelled
+Bridges,WO64,12 months,Place new road signage,COMP,26/11/2018,26/12/2018,21/08/2019,Other,Completed - Not in Time
+Roads,WO65,12 months,Install new signage,COMP,26/11/2018,26/12/2018,12/03/2019,Other,Completed - Not in Time
+Pathways,WO66,10 days,Clear Vegetation,COMP,26/11/2018,25/05/2019,4/04/2019,Other,Completed - In time
+Bridges,WO67,3 days,Repair Surface Defect,COMP,26/11/2018,10/12/2018,17/04/2019,Other,Completed - Not in Time
+Kerbs,WO13,12 months,Kerb and Channel Repair,TCOMP,21/08/2018,20/09/2018,16/04/2019,Other,Completed - Not in Time
+Roads,WO18,24 months,Edge Repair,TCOMP,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO26,24 months,Edge Repair,TCOMP,22/10/2018,20/04/2019,,Other,Completed - In time
+Roads,WO34,24 months,Edge Repair,TCOMP,22/10/2018,20/04/2019,,Other,Completed - In time
+Pathways,WO76,10 days,Repair Surface Defect,TCOMP,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
+Roads,WO81,24 months,Pothole Patching,TCOMP,5/12/2018,3/06/2019,5/12/2018,Other,Completed - In time
